@@ -40,8 +40,8 @@ Each dataset has a separate notebook or script:
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/unsupervised-clustering-sc4020.git
-cd unsupervised-clustering-sc4020
+git clone https://github.com/your-username/data-mining-clustering.git
+cd data-mining-clustering
 
 # Run notebooks individually
 jupyter notebook breast_cancer_src.ipynb
